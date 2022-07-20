@@ -1,7 +1,6 @@
 New project!
-<<<<<<< HEAD
 
 Hello Git!
-=======
 Another project!
->>>>>>> master
+Hello, Git Cherry-pick!
+
